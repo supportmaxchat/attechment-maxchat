@@ -1,8 +1,8 @@
 <?php
 
 // ganti dg url api di admin panel,token bisa di check pada email
-$GLOBALS["API_URL"] = "https://user.multy.chat/xiaomi/api";
-$GLOBALS["TOKEN"] = "qwe123";
+$GLOBALS["API_URL"] = "https://user.maxchat.id/xiaomi/api";
+$GLOBALS["TOKEN"] = "cffa33356hh";
 
 function webhookCapture() {
     $webhookContent = '';
