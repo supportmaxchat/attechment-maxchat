@@ -1,6 +1,6 @@
 <?php
 
-require 'multychat.php';
+require 'maxchat.php';
 
 // capture data yang dilempar oleh maxchat
 $result = webhookCapture();
